@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 7f9d498abd8880b12b43c2349029101477123f6e
 # 🌍 Predicting Air Quality Index using Machine Learning
 
 ## 📖 Project Overview
@@ -53,19 +50,6 @@ The model performs data preprocessing, exploratory data analysis (EDA), model tr
 
 ![Prediction](images/actual_vs_predicted.png)
 
----
-
-## 🚀 How to Run
->>>>>>> 7f9d498abd8880b12b43c2349029101477123f6e
-
-### Correlation Heatmap
-
-<<<<<<< HEAD
-![Heatmap](images/heatmap.png)
-
-### Actual vs Predicted AQI
-
-![Prediction](images/actual_vs_predicted.png)
 
 ## How to Run
 
@@ -98,7 +82,3 @@ Predicting-Air-Quality-Index/
 B.Tech Electrical Engineering
 
 Delhi Technological University (DTU)
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 7f9d498abd8880b12b43c2349029101477123f6e
