@@ -56,29 +56,9 @@ The model performs data preprocessing, exploratory data analysis (EDA), model tr
 ```bash
 pip install -r requirements.txt
 python air_quality_prediction.py
-=======
----
 
-## 📁 Project Structure
-
-```
-Predicting-Air-Quality-Index/
-│── images/
-│   ├── heatmap.png
-│   └── actual_vs_predicted.png
-│── air_quality_data.csv
-│── air_quality_prediction.py
-│── requirements.txt
-│── README.md
->>>>>>> 7f9d498abd8880b12b43c2349029101477123f6e
-```
-
----
 
 ## 👨‍💻 Author
-
-**Ayush Yadav**
-
+Ayush Yadav
 B.Tech Electrical Engineering
-
 Delhi Technological University (DTU)
