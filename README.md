@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌍 Predicting Air Quality Index using Machine Learning
 
 ## Project Overview
@@ -33,4 +33,3 @@ python air_quality_prediction.py
 Ayush Yadav  
 B.Tech Electrical Engineering  
 Delhi Technological University (DTU)
-=======
