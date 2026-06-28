@@ -7,7 +7,6 @@ This project predicts the Air Quality Index (AQI) using Machine Learning based o
 
 The model performs data preprocessing, exploratory data analysis (EDA), model training, evaluation, and visualization.
 
----
 
 ## ✨ Features
 
@@ -18,7 +17,6 @@ The model performs data preprocessing, exploratory data analysis (EDA), model tr
 - Performance Evaluation
 - Actual vs Predicted AQI Visualization
 
----
 
 ## 🛠️ Technologies Used
 
@@ -29,16 +27,11 @@ The model performs data preprocessing, exploratory data analysis (EDA), model tr
 - Seaborn
 - Scikit-learn
 
----
 
 ## 📂 Dataset
 
 `air_quality_data.csv`
 
-<<<<<<< HEAD
-## 📸 Project Screenshots
-=======
----
 
 ## 📸 Project Screenshots
 
