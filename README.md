@@ -20,6 +20,16 @@ This project predicts the Air Quality Index (AQI) using Machine Learning algorit
 
 ## Dataset
 `air_quality_data.csv`
+## 📸 Project Screenshots
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+### Actual vs Predicted AQI
+
+![Prediction](images/actual_vs_predicted.png)
+
 
 ## How to Run
 
