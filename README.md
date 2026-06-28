@@ -24,11 +24,13 @@ This project predicts the Air Quality Index (AQI) using Machine Learning algorit
 
 ### Correlation Heatmap
 
-![Heatmap](images/heatmap.png)
+![Heatmap](<img width="867" height="626" alt="heatmap" src="https://github.com/user-attachments/assets/59b52c9d-87a2-4599-b848-2fc30bfcea27" />
+)
 
 ### Actual vs Predicted AQI
 
-![Prediction](images/actual_vs_predicted.png)
+![Prediction](<img width="867" height="626" alt="heatmap" src="https://github.com/user-attachments/assets/8e4859b4-cc68-4b6e-888d-a3d444b1d5ff" />
+)
 
 
 ## How to Run
